@@ -1,0 +1,7 @@
+pizza
+grape
+orange
+burger
+pineapple
+apple
+lemon
